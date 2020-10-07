@@ -1,0 +1,26 @@
+{
+  "short_name": "Budgetty ",
+  "name": "Plan,Save and share your budgets accross devices,teams and organization",
+  "icons": [
+    {
+      "src": "imagesy/logo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "imagesy/logo2.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "imagesy/logo3.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#060818",
+  "background_color": "#060818",
+  "orientation":"portrait-primary"
+}
