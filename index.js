@@ -4,8 +4,8 @@ function pull(requrl,body){
 
       }
       else {
-         var prefix ='../backend/budgetapp/'
-        //var prefix = "https://novling.000webhostapp.com/budgetapp/";
+         //var prefix ='../backend/budgetapp/'
+        var prefix = "https://novling.000webhostapp.com/budgetapp/";
     }
   return  fetch(prefix+requrl,body)
   		
