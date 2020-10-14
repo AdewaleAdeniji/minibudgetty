@@ -305,7 +305,11 @@ function router(route){
 
    
     else {
+      titler("Budgets");
+        fetchbudgets();
+        o();
       console.log(hash);
+
     }
   }
    loadnote();
